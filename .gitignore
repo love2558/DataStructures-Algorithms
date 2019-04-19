@@ -1,5 +1,7 @@
-.idea
+/.settings/
+/.project
 *.iml
-*.ipr
-*.iws
-out
+*/target/
+.idea/
+/.gitignore
+target
